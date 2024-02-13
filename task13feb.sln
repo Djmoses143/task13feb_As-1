@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task13feb", "task13feb\task13feb.csproj", "{5C23B3E0-89D8-4446-97C1-A9CAD3D22FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calsi", "Calsi\Calsi.csproj", "{1CA0F41C-F50C-4573-912E-54BB13BDF82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C23B3E0-89D8-4446-97C1-A9CAD3D22FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C23B3E0-89D8-4446-97C1-A9CAD3D22FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C23B3E0-89D8-4446-97C1-A9CAD3D22FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C23B3E0-89D8-4446-97C1-A9CAD3D22FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA0F41C-F50C-4573-912E-54BB13BDF82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA0F41C-F50C-4573-912E-54BB13BDF82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA0F41C-F50C-4573-912E-54BB13BDF82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA0F41C-F50C-4573-912E-54BB13BDF82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {142890DE-2566-4837-B1DB-D6949DBE58AB}
+	EndGlobalSection
+EndGlobal
